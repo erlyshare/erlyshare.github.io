@@ -1,2 +1,2 @@
 # erlyshare.github.io
-个人网站
+Erlang 学习分享
